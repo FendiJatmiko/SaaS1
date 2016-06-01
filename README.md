@@ -7,10 +7,18 @@
 - [x] git commit -m (messages)
 - [x] git push origin master 
 
+ ##  a simplest way to perform pull request
+- [x]    1. fork your target repo
+- [x]    2. `add remote` to the forking repo 
+- [x]    3. clone or pull to ur local machine
+- [x]    4. start editing and add the changes
+- [x]    5. push to master or branch
+- [x]	 6. then click `new pull request` from github website, adding a few comment and `create pull request`
+	
 `ur bitBucket username is fendiD_ace`
 
-<!-- ![the Jokerr](https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg) -->
-<img style="float: right;" src="https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg">
+<!-- ![the Jokerr](http://www.imgbase.info/images/safe-wallpapers/tv_movies/batman/45406_batman_joker.jpg) -->
+<img style="float: right;" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwXbaazFZW0v_gtoFkZelVZ8mUkUVKOZwMJep0jtZds_8XLK1n">
 <!-- align="right" height="600" width="400"  -->
 ###first meet up Praktik Cloud computing class
 		was just to creating new github
