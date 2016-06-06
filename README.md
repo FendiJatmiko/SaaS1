@@ -37,3 +37,7 @@
 	ps : this is pulled from pndxDcode account.
 	play with gRPC,.. again.. 
 	follow this tuts https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html?index=..%2F..%2Fio2016#0
+### 06 - jun - 2016
+	fork from this repo `https://github.com/sa-cloud/buku--go-cloud.git` 
+	and use pandoc or latex for editing the text, like converting from markdown(*.md) to pdf or any other format.
+	
