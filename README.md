@@ -29,7 +29,7 @@
 		actually, the term used in git aint 'fetch' but 'clone' instead.
 			to save the earlier project from the repo, and u can start
 			editing your earlier version of it and start publishing
-			by using `git push origin master`
+			by using **git push origin master**
 ### 11 - april - 2016
 	its about gRPC on google compute platform
 ### 30 - may - 2016
@@ -38,6 +38,6 @@
 	play with gRPC,.. again.. 
 	follow this tuts https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html?index=..%2F..%2Fio2016#0
 ### 06 - jun - 2016
-	fork from this repo `https://github.com/sa-cloud/buku--go-cloud.git` 
+	fork from this repo https://github.com/sa-cloud/buku--go-cloud.git 
 	and use pandoc or latex for editing the text, like converting from markdown(*.md) to pdf or any other format.
-	
+	 
