@@ -23,15 +23,15 @@
 
 
 ### first meet up Praktik Cloud computing class
-		was just to creating new github
-		and then, try to creating new repository and stuff
-		and commit then just push it.
+	was just to creating new github
+	and then, try to creating new repository and stuff
+	and commit then just push it.
 ### second meet up 
-		Fetching from github repo using git command
-		actually, the term used in git aint 'fetch' but 'clone' instead.
-			to save the earlier project from the repo, and u can start
-			editing your earlier version of it and start publishing
-			by using **git push origin master**
+	Fetching from github repo using git command
+	actually, the term used in git aint 'fetch' but 'clone' instead.
+	to save the earlier project from the repo, and u can start
+	editing your earlier version of it and start publishing
+	by using **git push origin master**
 ### Third meet up
 #### Using golang to create a simple wiki called wiki.go and a simple webserver
 		`here are the basic of using golang`
