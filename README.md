@@ -1,5 +1,5 @@
 # basic git command 
-- [x] git inint
+- [x] git init
 - [x] git remote add origin https://github.com/myRepo/myRepository.git
 - [x] git config --global user.email "ur.mail@dontknow.com"
 - [x] git config --global user.name "ur.userName"
@@ -20,6 +20,8 @@
 <!-- ![the Jokerr](http://www.imgbase.info/images/safe-wallpapers/tv_movies/batman/45406_batman_joker.jpg) -->
 <img style="float: right;" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwXbaazFZW0v_gtoFkZelVZ8mUkUVKOZwMJep0jtZds_8XLK1n">
 <!-- align="right" height="600" width="400"  -->
+
+
 ###first meet up Praktik Cloud computing class
 		was just to creating new github
 		and then, try to creating new repository and stuff
